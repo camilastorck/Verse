@@ -1,0 +1,72 @@
+/* 
+  Localizable.strings
+  Ribbit
+
+  Created by Camila Storck on 31/05/2023.
+  
+*/
+
+// MARK: - Brand
+
+"VERSE" = "Verse";
+
+// MARK: - Onboarding
+
+"ONBOARDING_FIRST_TITLE" = "Lee. Imagina.";
+"ONBOARDING_SECOND_TITLE" = "Disfruta.";
+"ONBOARDING_LOGININ_TITLE" = "Iniciar Sesión";
+"ONBOARDING_SIGNUP_TITLE" = "Registrarse";
+"ONBOARDING_SKIP_TITLE" = "Omitir";
+"ONBOARDING_HAS_ACCOUNT" = "¿Ya tienes una cuenta?";
+"ONBOARDING_ALERT_TITLE" = "¿Quieres saltarte este paso?";
+"ONBOARDING_ALERT_MESSAGE" = "Si cambias de opinión, puedes iniciar sesión o registrarte desde \nla sección Perfil.";
+"ONBOARDING_ALERT_OK_BUTTON_TITLE" = "Continuar";
+"ONBOARDING_ALERT_CANCEL_BUTTON_TITLE" = "Cancelar";
+
+// MARK: - LogIn
+
+"LOGIN" = "Iniciar Sesión";
+"LOGIN_EMAIL" = "E-mail";
+"LOGIN_EMAIL_PROMPT" = "Ingresa tu e-mail";
+"LOGIN_PASSWORD" = "Contraseña";
+"LOGIN_PASSWORD_PROMPT" = "Ingresa tu contraseña";
+"LOGIN_PASSWORD_FORGOT" = "¿Olvidaste tu contraseña?";
+
+// MARK: - SignUp
+
+"SIGNUP" = "Registrarse";
+"SIGNUP_NAME" = "Nombre";
+"SIGNUP_NAME_PROMPT" = "Ingresa tu nombre";
+"SIGNUP_RETYPE_PASSWORD" = "Reingresar Contraseña";
+"SIGNUP_RETYPE_PASSWORD_PROMPT" = "Reingresa tu contraseña";
+
+// MARK: - Home
+
+"HOME_RECENTS_TITLE" = "Libros Recientes";
+"HOME_SEARCH_BAR_PLACEHOLDER" = "Busca el libro que quieras";
+"TAB_BAR_HOME_TITLE" = "Inicio";
+"TAB_BAR_REVIEWS_TITLE" = "Reseñas";
+"TAB_BAR_NEW_BOOK_TITLE" = "Agregar Libro";
+"TAB_BAR_TRANSFER_TITLE" = "Compartir";
+"TAB_BAR_SETTINGS_TITLE" = "Configuración";
+
+// MARK: - ProfileView
+
+"PROFILE_VIEW_TITLE" = "Mi Cuenta";
+
+// MARK: - BookDetails
+
+"BOOK_DETAILS_MAIN_ACTION" = "Empezar Lectura";
+"BOOK_DETAILS_AUTHOR_TITLE" = "Autor: %@";
+"BOOK_DETAILS_CATEGORY_TITLE" = "Categoría:";
+"BOOK_DETAILS_SUMMARY_TITLE" = "Resúmen";
+"BOOK_DETAILS_INFO_REVIEW_TITLE" = "Reseña";
+"BOOK_DETAILS_INFO_PAGES_TITLE" = "Páginas";
+"BOOK_DETAILS_INFO_LANGUAGE_TITLE" = "Idioma";
+
+// MARK: - BookLibrary
+
+"BOOK_LIBRARY_TITLE" = "Mi Biblioteca";
+
+"PLACEHOLDER" = "Lorem ipsum dolor sit amet consectetur adipiscing, elit laoreet litora mollis fringilla porta metus, faucibus sociis lacus urna mattis. Nec mus faucibus iaculis sociosqu lobortis ornare aptent senectus, donec accumsan vel torquent phasellus suscipit sollicitudin turpis, posuere ante odio egestas luctus urna facilisis. Sociis vestibulum mollis sapien penatibus cursus convallis nisi felis pretium, pellentesque in nulla eros posuere ante aptent sem, arcu condimentum elementum nec dictum lobortis proin neque.
+Aliquet feugiat lectus convallis leo enim netus pellentesque, porta parturient risus magnis justo natoque pretium hendrerit.";
