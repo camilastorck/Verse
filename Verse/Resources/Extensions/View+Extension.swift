@@ -1,6 +1,6 @@
 //
 //  View+Extension.swift
-//  Ribbit
+//  Verse
 //
 //  Created by Camila Storck on 19/07/2023.
 //
