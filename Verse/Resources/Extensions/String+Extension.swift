@@ -1,6 +1,6 @@
 //
 //  String+Extension.swift
-//  Ribbit
+//  Verse
 //
 //  Created by Camila Storck on 31/05/2023.
 //
