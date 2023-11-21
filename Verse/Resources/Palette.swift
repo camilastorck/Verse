@@ -1,6 +1,6 @@
 //
 //  Palette.swift
-//  Ribbit
+//  Verse
 //
 //  Created by Camila Storck on 02/06/2023.
 //
@@ -17,7 +17,7 @@ enum Palette: String, CaseIterable {
 extension Palette {
     var color: Color {
         guard Palette.allCases.contains(self) else {
-            assertionFailure("Couldn´t find color \(self), did you add it to Assets/xcassets?")
+            assertionFailure("Couldn´t find color \(self)")
             return Color(.clear)
         }
         return Color(self.rawValue, bundle: Bundle.main)
